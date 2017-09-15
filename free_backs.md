@@ -1,7 +1,7 @@
 # DigitalOcean Free 25$ backs!
 Digital Ocean Promo Codes for August, September, November, December 2017... and for ever when ever.
 
-Save $25 for your Cloud Computing Solution with Digital Ocean.
+Save $25 for your Cloud Computing Solution with modern VDS hosting Digital Ocean.
 
 ## How to get it? ##
 
