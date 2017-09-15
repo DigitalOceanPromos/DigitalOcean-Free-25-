@@ -12,14 +12,20 @@ Save $25 for your Cloud Computing Solution with modern VDS hosting Digital Ocean
 Other Promocodes:
 
 DROPLET10
+
 ALLSSD10
+
 DODEPLOY
+
 SHIPITFAST10
+
 OMGSSD10
+
 FRANKFURT
+
 77f3f3ead4a2
 ....
 
-Olso, if promo these promos does not work, try **[THIS](https://www.retailmenot.com/view/digitalocean.com?c=9118354)** url with current promos.
+Olso, if  these promos does not work, try **[THIS](https://www.retailmenot.com/view/digitalocean.com?c=9118354)** url with current promos.
 
 Starting with a $25 discount is not bad for a service which only coast $5 per month, so you will get 5 month trial, free hosting! :)
