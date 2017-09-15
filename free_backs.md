@@ -3,7 +3,7 @@ Digital Ocean Promo Codes for August, September, November, December 2017... and 
 
 Save $25 for your Cloud Computing Solution with Digital Ocean.
 
-##How to get it?##
+## How to get it? ##
 
 1.) Use this [link](http://www.digitalocean.com/?refcode=9298ad81171f) to Sign Up and save your first $10. It is 2 month of free hosting
 
