@@ -28,4 +28,5 @@ FRANKFURT
 
 Olso, if  these promos does not work, try **[THIS](https://www.retailmenot.com/view/digitalocean.com?c=9118354)** url with current promos.
 
-Starting with a $25 discount is not bad for a service which only coast $5 per month, so you will get 5 month trial, free hosting! :)
+Starting with a $25 discount is not bad for a service which only coast $5 per month.
+So you will get **5 month trial**, free VDS hosting! :)
